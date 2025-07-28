@@ -212,6 +212,6 @@ int main()
     // node *revList=reverLinkList(head);
     // printLinkList(revList);
     // cout << reverPartTwo(head, 1, 3)->data << endl;
-
+    cout<<"git out\n";
     return 0;
 }
